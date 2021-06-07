@@ -53,7 +53,8 @@ ul li input {
 }
 
 button {
-  background-color: #8e44ad;
+  background-color: #861657;
+  background-image: linear-gradient(326deg, #861657 0%, #fc6e61 75%);
   border: none;
   color: white;
   cursor: pointer;
@@ -66,5 +67,6 @@ button {
 
 button:hover {
   background-color: #732d91;
+  background-image: linear-gradient(326deg, #372e83 0%, #a32727 100%);
 }
 
