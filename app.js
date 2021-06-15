@@ -39,6 +39,14 @@ const quizData = [
     d: "TikTok",
     correct: "b",
   }, 
+  {
+    question: "What country has the most rain per year?",
+    a: "Columbia",
+    b: "Peru",
+    c: "Panama",
+    d: "Fiji",
+    correct: "a",
+  }, 
 ];
 
 const answerEls = document.querySelectorAll(".answer");
